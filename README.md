@@ -16,3 +16,4 @@ Performing analysis on Kickstarter data to uncover trends
 - It is recommended to launch the kickstarter during the months of May or June. 
 - Beware of setting goals that are too high. Unless you have specific needs of raising money for a theater building, keeping the goal at a lower number would be best. For the futue project in Great Britain, a goal not exceeding 2,000 pounds would be prudent. 
 ---
+![Parent_category_chart.png](Parent_category_chart.png)
