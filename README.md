@@ -17,3 +17,10 @@ Performing analysis on Kickstarter data to uncover trends
 - Beware of setting goals that are too high. Unless you have specific needs of raising money for a theater building, keeping the goal at a lower number would be best. For the futue project in Great Britain, a goal not exceeding 2,000 pounds would be prudent. 
 ---
 ![Parent_category_chart.png](Parent_category_chart.png)
+---
+![subcategory_statistics_chart.png](subcategory_statistics_chart.png)
+---
+![Outcome_Based_on_Launch_Data_Chart.png](Outcome_Based_on_Launch_Data_Chart.png)
+---
+![GB_statistical_box_whisker_chart.png](GB_statistical_box_whisker_chart.png)
+---
