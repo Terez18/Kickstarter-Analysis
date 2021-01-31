@@ -28,7 +28,7 @@ Challenges were mainly revolving around figuring out how to write functions corr
 - There seems to be a clear increase in successful outcome of campaigns during the months of May and June. This is seen in the graph below in the high peak of the blue line representing successful outcomes during May and June. The conclusion is that based on this data it is a good idea to launch a campaign during the months of May and June. 
 - Overall in the theater category at any month of the year there were more successful campaigns than failed or canceled campaigns. This can be seen in the graph as the blue line is always higher than the orange line. The conclusion is that generally a theater campaign has been successful in the past and therefore may be successful also in the future. 
 
-![Theater_Outcome_vs_Launch.png](resources/Theater_Outcome_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 ---
 ### Results and Conclusions about the Outcomes based on Goals:
 - There are two main peaks for successful campaigns the highest peak is for the campaigns with lower goals less than 1000 seems most successful and 1000 to 4999 is second most successful subcategory. Then at a much higher range there is a second peak though the peak is not as high as the first one. This is around 35000 to 44999 dollars. It may be that when campaigns require money for much larger projects for example for building a theater those were successful too. Since Louise is focused on the plays and not on buildings, this seems less relevant for her. Therefore, the most successful campaigns based on goals are the ones in the lowest first two subcategories. Less than 1000 and 1000 to 4999. And this is the range Louise should aim for. 
